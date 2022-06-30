@@ -55,5 +55,5 @@ public class Test {
        File trg=new File("/seleniumpratcise/src/test/resources/screenshot.png");
        FileUtils.copyFile(scr, trg);
         
-}}
+}
 }
